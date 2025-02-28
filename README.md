@@ -6,6 +6,9 @@ Task Manager is a powerful yet simple tool designed to help you organize, track,
 Our Task Manager also offers seamless user authentication, allowing you to personalize your experience while keeping your data secure. Whether you're managing work projects or personal to-dos, Task Manager ensures you stay productive and never miss a deadline.
 
 Get started today and take control of your tasks with ease!
+
+1. Link repository: https://github.com/ngnhonk/laravel-task-manager
+2. Link readme: https://github.com/ngnhonk/laravel-task-manager/blob/main/README.md
 ## About me
 1. My name: Nguyễn Việt Hùng
 2. My email: 22010323@st.phenikaa-uni.edu.vn
