@@ -13,8 +13,6 @@ My name: Nguyễn Việt Hùng
 ## Use case
 ![UseCase](public/images/use_case.drawio.png)
 
-## EER diagram
-![EER](public/images/eer.png)
 ## How to run on localhost ?
 **1. Clone the repository**  
    ```bash
