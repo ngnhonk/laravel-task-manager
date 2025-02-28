@@ -45,12 +45,7 @@ Get started today and take control of your tasks with ease!
    php artisan migrate
    ```
 
-**7. Install frontend dependencies (if needed)**  
-   ```bash
-   npm install
-   ```
-
-**8. Start the application**  
+**7. Start the application**  
    ```bash
    php artisan serve
    ```
