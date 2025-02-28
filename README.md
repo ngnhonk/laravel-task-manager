@@ -79,7 +79,7 @@ Get started today and take control of your tasks with ease!
 
 ![image](public/images/createtask.png)
 
-**Edit List**
+**Edit Task**
 
 ![image](public/images/edit_task.png)
 
