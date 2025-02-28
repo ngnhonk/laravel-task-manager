@@ -7,6 +7,32 @@ Our Task Manager also offers seamless user authentication, allowing you to perso
 
 Get started today and take control of your tasks with ease!
 
+## Key Technologies
+
+### 1. Laravel Framework  
+- Follows the **MVC architecture**, ensuring well-structured and maintainable code.  
+- **Eloquent ORM** for seamless database interactions.  
+
+### 2. Web Technologies & HTTP Request/Response  
+- Implements a **routing system** to handle client requests and send appropriate responses.  
+- Explores how the client (browser) communicates with the server using **HTTP methods** such as `GET`, `POST`, `PUT`, and `DELETE`.  
+
+### 3. CRUD Operations (Create, Read, Update, Delete)  
+- Users can **add, view, edit, and delete** tasks easily through an intuitive interface.  
+- Stores and manages data using **MySQL**.  
+
+### 4. Authentication & Authorization  
+- Implements **Laravel Authentication** for user registration, login, and session management.  
+- Uses **middleware** to control access to specific pages and functionalities.  
+
+### 5. Security  
+- Implements **data validation** on both **client-side** and **server-side** to ensure data integrity.  
+
+### 6. Database Management  
+- Uses **Eloquent ORM** to interact with MySQL, simplifying database queries.  
+- Supports **SQLite** for quick testing and development.  
+
+## Link
 1. Link repository: https://github.com/ngnhonk/laravel-task-manager
 2. Link readme: https://github.com/ngnhonk/laravel-task-manager/blob/main/README.md
 ## About me
