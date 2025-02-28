@@ -6,7 +6,15 @@ Task Manager is a powerful yet simple tool designed to help you organize, track,
 Our Task Manager also offers seamless user authentication, allowing you to personalize your experience while keeping your data secure. Whether you're managing work projects or personal to-dos, Task Manager ensures you stay productive and never miss a deadline.
 
 Get started today and take control of your tasks with ease!
+## About me
+My name: Nguyễn Việt Hùng
 
+
+## Use case
+![UseCase](public/images/use_case.drawio.png)
+
+## EER diagram
+![EER](public/images/eer.png)
 ## How to run on localhost ?
 **1. Clone the repository**  
    ```bash
