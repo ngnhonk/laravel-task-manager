@@ -7,11 +7,17 @@ Our Task Manager also offers seamless user authentication, allowing you to perso
 
 Get started today and take control of your tasks with ease!
 ## About me
-My name: Nguyễn Việt Hùng
+1. My name: Nguyễn Việt Hùng
+2. My email: 22010323@st.phenikaa-uni.edu.vn
 
+## Sequence Diagram
+![Image](public/images/diagram.png)
 
 ## Use case
-![UseCase](public/images/use_case.drawio.png)
+![Image](public/images/use_case.png)
+
+## EER Diagram
+![Image](public/images/eer.png)
 
 ## How to run on localhost ?
 **1. Clone the repository**  
@@ -55,9 +61,37 @@ My name: Nguyễn Việt Hùng
    ```bash
    php artisan serve
    ```
+## Layouts
+
+**Login**
+
+![image](public/images/login.png)
+
+**Register**
+
+![image](public/images/register.png)
+
+**Task List**
+
+![image](public/images/tasklist.png)
+
+**Create Task**
+
+![image](public/images/createtask.png)
+
+**Edit List**
+
+![image](public/images/edit_task.png)
+
+**Sort By**
+
+![image](public/images/sort_by.png)
+
+**Dashboard**
+
+![image](public/images/dashboard.png)
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# laravel-task-manager" 
-
